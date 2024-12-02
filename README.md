@@ -1,7 +1,9 @@
 <h1 align="center">
   Hello, I'm moxuzhu
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  <img src="https://komarev.com/ghpvc/?username=mzhu296&label=My%20Profile%20Views&color=0e75b6&style=flat" alt="mzhu296" /> 
+  <!-- <img src="https://komarev.com/ghpvc/?username=mzhu296&label=My%20Profile%20Views&color=0e75b6&style=flat" alt="mzhu296" />  -->
+  <img src="https://img.shields.io/badge/My_Profile_Views-1000-0e75b6" alt="mzhu296" />  -->
+
 </h1>
 
 <div align="center">
