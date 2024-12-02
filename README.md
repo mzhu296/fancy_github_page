@@ -1,7 +1,7 @@
 <h1 align="center">
   Hello, I'm moxuzhu
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  <img src="https://komarev.com/ghpvc/?username=zhenxiao-yu&label=My%20Profile%20Views&color=0e75b6&style=flat" alt="zhenxiao-yu" /> 
+  <img src="https://komarev.com/ghpvc/?username=mzhu296&label=My%20Profile%20Views&color=0e75b6&style=flat" alt="mzhu296" /> 
 </h1>
 
 <div align="center">
@@ -75,9 +75,9 @@
 
 <p align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjYxeWVhOHRlbDJ4eTZuYTBramdwY2pwd3Azd2F3b2RweHUzb2wzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Exc9GvjitUCPczepZe/giphy.gif"  width="100px" height="100px"></p>			
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=zhenxiao-yu&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews"> </div>
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=mzhu296&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews"> </div>
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=zhenxiao-yu&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
+<img src="https://github-profile-trophy.vercel.app/?username=mzhu296&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
  </div>
 
 </details>
