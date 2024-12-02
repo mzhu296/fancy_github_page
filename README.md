@@ -19,7 +19,7 @@
 - 🌱 Currently learning **DevOps, Raspberry Pi, and Elasticsearch**
 - 📌 🧧 CGQ > 🌾YQR > 🌆 YYZ
 - 🚀 Ask me about **Java, React, Unity2D, and NodeJS**
-- 📫 How to reach me: **markyu0615@gmail.com**
+- 📫 How to reach me: **mzhu296@uwo.com**
 
 </details>
 
